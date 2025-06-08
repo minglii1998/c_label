@@ -4,8 +4,8 @@
     "scene": "hotel",
     "target_partner": "boyfriend",
     "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
-    "detm_cue": "Two charging cables lie on either side of the nightstands, as people usually use only one power outlet to charge their phones on the king-size bed for convenience.",
-    "non_detm_cue": "1. Braided hair-tie/bracelet on the coffee table, which is usually used by females. 2. Two different drink containers in different places, a half-used water bottle, and a paper cup. 3. The duvet is bundled mostly to the centre, not just to one edge, which is a pattern that two people can sleep on both sides.",
+    "detm_cue": "Two charging cables lie on both sides of the nightstands, as people usually use only one power outlet to charge their phones on the king-size bed as another one is usually harder to access.",
+    "non_detm_cue": "1. There is a braided hair-tie/bracelet on the coffee table, which is usually used by females. 2. There are two different drink containers in different places, a half-used water bottle, and a paper cup. 3. The quilt is bundled mostly to the centre, not just to one edge, which is a pattern that two people can sleep on both sides.",
     "p_sub_ins": [
       "Can you identify that there are two charging cables lying on either side of the nightstands in the image?"
     ],
@@ -25,8 +25,8 @@
     "scene": "hotel",
     "target_partner": "boyfriend",
     "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
-    "detm_cue": "At the bottom right of the image, under the table, a pair of slippers is occupied by feet whose posture suggests they aren't the photographer's.",
-    "non_detm_cue": "1. A white rose bouquet is on the table, indicating a romantic setting. 2. The TV show is targeted at female viewers. 3. The 500 ml Coke bottle sits unusually far from the photographer—odd for someone who lives and dines alone.",
+    "detm_cue": "At the bottom right of the image, under the table, a pair of slippers is being worn by someone whose posture suggests it is not the photographer.",
+    "non_detm_cue": "1. A white rose bouquet is on the table, indicating a romantic setting. 2. The TV show is targeted at female viewers. 3. The 500 ml Coke bottle sits unusually far from the photographer, odd for someone who lives and dines alone.",
     "p_sub_ins": [
       "Can you identify that there is a pair of slippers under the table in the right bottom of image?"
     ],
@@ -49,7 +49,7 @@
     "target_partner": "boyfriend",
     "main_ins": "My boyfriend said he's staying at the hotel with his best friend (who is male) and sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
     "detm_cue": "A girl's hair clip is visible on the bed at the right side of the image.",
-    "non_detm_cue": "1. A light-colored hoodie on the bed to the left.",
+    "non_detm_cue": "",
     "p_sub_ins": [
       "Can you identify that there is a girlish hair on the bed at the right side in the image?"
     ],
@@ -58,7 +58,7 @@
     ],
     "r_sub_ins": [
       "Do you think the girlish hair on the bed at the right side may not belong to a male ?",
-      "Do you think the girlish hair on the bed at the right side indicates that there is a girl living here?"
+      "Do you think the girlish hair on the bed at the right side indicates that probably there is a girl living here?"
     ],
     "r_sub_ans": [
       "Yes",
@@ -71,8 +71,8 @@
     "scene": "hotel",
     "target_partner": "boyfriend",
     "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
-    "detm_cue": "A paddle brush lies on the bed, which is more often used by females.",
-    "non_detm_cue": "Two adapters and charging cables are on the bed.",
+    "detm_cue": "There is a paddle brush lies on the bed, which is more often used by females.",
+    "non_detm_cue": "",
     "p_sub_ins": [
       "Can you identify that there is a paddle brush on the bed in the image?"
     ],
@@ -117,7 +117,7 @@
     "scene": "hotel",
     "target_partner": "boyfriend",
     "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
-    "detm_cue": "There's a gray sleeve visible on the right side of the photo, likely belonging to another person based on its position and posture.",
+    "detm_cue": "There's a gray sleeve visible on the right side of the photo, indicating there is another person on the bed based on its position and posture.",
     "non_detm_cue": "1. There is a handbag on the table, which is usually used by females.",
     "p_sub_ins": [
       "Can you identify that there is a gray sleeve on the right side of the photo?"
@@ -127,7 +127,7 @@
     ],
     "r_sub_ins": [
       "Do you think the gray sleeve on the right side of the photo is likely to be another person's sleeve due to its position and posture?",
-      "Do you think the gray sleeve on the right side of the photo directly indicates that there is another person living here?"
+      "Do you think the gray sleeve on the right side of the photo directly indicates that there is another person currently on the bed?"
     ],
     "r_sub_ans": [
       "Yes",
@@ -186,8 +186,8 @@
     "scene": "hotel",
     "target_partner": "boyfriend",
     "main_ins": "My boyfriend said he's staying at the hotel with his best friend (both male) and sent me this photo. Do you notice anything suspicious in the image that contradicts his claim?",
-    "detm_cue": "There are several feminine toys sitting on the long wooden shelf beneath the television, typically favored and owned by females.",
-    "non_detm_cue": "1. There is a handbag in women's style on the long wooden shelf beneath the television, which is usually carried by a female. 2. The TV show playing now is targeted at the female viewer.",
+    "detm_cue": "There are several feminine toys together with a girl's handbag sitting on the long wooden shelf beneath the television, typically favored and owned by females.",
+    "non_detm_cue": "1. There are two glasses of wine on the table, indicating a romantic setting.",
     "p_sub_ins": [
       "Can you identify that there are several feminine toys on the long wooden shelf beneath the television?"
     ],
@@ -210,7 +210,7 @@
     "target_partner": "boyfriend",
     "main_ins": "My boyfriend said he's staying alone in an Airbnb and sent me this photo. Do you notice anything suspicious in this image that contradicts his claim?",
     "detm_cue": "Two charging cables are plugged into separate outlets on each side of the nightstands, suggesting they likely belong to different individuals, since it would be inconvenient for a single person to charge their phone this way.",
-    "non_detm_cue": "1. There is a small pink bag on the washing machine, which is usually used by females as a makeup bag. 2. There is a tube that looks like hand cream on the washing machine, which is more likely to be used by a female. 3. Two sets of pillows are arranged on the bed, and the duvet is gathered toward the center rather than one edge, which is an arrangement typical of two people sleeping on opposite sides.",
+    "non_detm_cue": "1. There is a small pink bag on the washing machine, which is usually used by females as a makeup bag. 2. Two sets of pillows are arranged on the bed, and the quilt is gathered toward the center rather than one edge, which is an arrangement typical of two people sleeping on opposite sides.",
     "p_sub_ins": [
       "Can you identify that there are two charging cables are plugged into separate outlets on each side of the nightstands in the image?"
     ],
@@ -233,7 +233,7 @@
     "target_partner": "boyfriend",
     "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
     "detm_cue": "A feminine bow hair accessory, commonly used by females, rests on the nightstand at the bottom right of the picture.",
-    "non_detm_cue": "1. There is another cell phone on the table, which potentially indicates that another person is using it. 2. Both of the nightstands are piled up with items, which is not a common habit for a single person. 3. The duvet is bundled mostly to the centre, not just to one edge, which is a pattern that two people can sleep on both sides.",
+    "non_detm_cue": "1. There is another cell phone on the table, which potentially indicates that another person is using it. 2. Both of the nightstands are piled up with items, which is not a common habit for a single person. 3. The quilt is bundled mostly to the centre, not just to one edge, which is a pattern that two people can sleep on both sides.",
     "p_sub_ins": [
       "Can you identify that there is feminine bow hair accessory on the nightstand at the bottom right of the picture?"
     ],
@@ -254,9 +254,9 @@
     "data_path": "true_images/true_12.png",
     "scene": "hotel",
     "target_partner": "boyfriend",
-    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "main_ins": "My boyfriend said he is staying in the hotel with his best friend (both male), and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
     "detm_cue": "A white feminine hair clip, typically used as a female hair accessory, sits on the right-hand side of the nightstand.",
-    "non_detm_cue": "1. There is another cell phone on the bed to the left, which potentially indicates that another person is using it. 2. There is a used makeup-removal wipe on the nightstand, which is usually used by females. 3. There is a small black handbag on the bed to the left, which is usually used by females. 4. There are two bottles of water on the table with different remaining levels, which is not a common habit for a single person.",
+    "non_detm_cue": "1. There is a used makeup-removal wipe on the nightstand, which is usually used by females. 2. There is a small black handbag on the bed to the left, which is usually used by females.",
     "p_sub_ins": [
       "Can you identify that there is a white feminine hair clip on the right-hand side of the nightstand?"
     ],
@@ -300,7 +300,7 @@
     "target_partner": "girlfriend",
     "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
     "detm_cue": "A pair of gloved hands is visible at the right edge of the image, handling crawfish, and their position and posture suggest they belong to another person.",
-    "non_detm_cue": "1. There are two cups of milk tea and two cans of beer on the table, which is not a common habit for a single person.",
+    "non_detm_cue": "",
     "p_sub_ins": [
       "Can you identify that there is a pair of gloved hands on the the right edge of the image?"
     ],
@@ -323,7 +323,7 @@
     "target_partner": "boyfriend",
     "main_ins": "My boyfriend said he's out with his friends (all males) at a karaoke bar and sent me this photo. Do you notice anything suspicious in the image that contradicts his claim?",
     "detm_cue": "A woman leaning toward the photographer is visible in the reflection on the chrome trim beneath the marble tabletop, which is direct evidence of another female in the group.",
-    "non_detm_cue": "There are no other points that indicate another female in this photo.",
+    "non_detm_cue": "",
     "p_sub_ins": [
       "Can you identify the reflection of a woman leaning toward the photographer on the chrome trim beneath the marble tabletop in the image?"
     ],
@@ -331,7 +331,7 @@
       "Yes"
     ],
     "r_sub_ins": [
-      "Do you think the reflection of a woman leaning toward the photographer on the chrome trim beneath the marble tabletop directly indicates that there is a woemn in the party?"
+      "Do you think the reflection of a woman leaning toward the photographer on the chrome trim beneath the marble tabletop directly indicates that there is a woman in the party?"
     ],
     "r_sub_ans": [
       "Yes"
@@ -344,7 +344,7 @@
     "target_partner": "boyfriend",
     "main_ins": "My boyfriend said he's dining alone at a restaurant and sent me this photo. Do you notice anything suspicious in the image that contradicts his claim?",
     "detm_cue": "There's a lighting reflector panel on the far side of the table, typically owned and used by females.",
-    "non_detm_cue": "1. A lipstick stain is on the teacup across the table, which is a common sign that the cups are used by a female. 2. The spoon's handle points toward the photographer, while only the opposite bowl has sauce, which is not a common habit for a single person. 3. There are two sets of teacups and chopsticks visible from the image, indicating two people dining at this table.",
+    "non_detm_cue": "1. A lipstick stain is on the teacup across the table, which is a common sign that the cups are used by a female. 2. The spoon's handle points toward the photographer, while only the opposite bowl has sauce, which is not a common habit for a single person dining. 3. There are two sets of teacups and chopsticks visible from the image, indicating two people dining at this table.",
     "p_sub_ins": [
       "Can you identify that there is a lighting reflector panel on the far side of the table in the image?"
     ],
@@ -366,8 +366,8 @@
     "scene": "hotel",
     "target_partner": "boyfriend",
     "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
-    "detm_cue": "A bare arm is visible on the chair near the right edge of the image, suggesting it likely belongs to another person based on its position and posture.",
-    "non_detm_cue": "1. There is a handbag hanging on the right-hand chair, which is usually used by a female. 2. There is a light brown, crochet garment on the right-hand chair, which is usually worn by a female.",
+    "detm_cue": "A bare arm is visible on the chair near the right edge of the image, suggesting there is likely another person in the photo based on its position and posture.",
+    "non_detm_cue": "",
     "p_sub_ins": [
       "Can you identify that there is a bare arm on the chair near the right edge of the image?"
     ],
@@ -390,7 +390,7 @@
     "target_partner": "boyfriend",
     "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
     "detm_cue": "A Coach-pattern tote bag is visible on the left side of the image, which is usually a female's handbag.",
-    "non_detm_cue": "1. The duvet is bundled mostly to the centre, not just to one edge, which is a pattern that two people can sleep on both sides.",
+    "non_detm_cue": "1. The quilt is bundled mostly to the centre, not just to one edge, which is a pattern that two people can sleep on both sides.",
     "p_sub_ins": [
       "Can you identify that there is a Coach-pattern tote bag on the left side of the image?"
     ],
@@ -413,7 +413,7 @@
     "target_partner": "girlfriend",
     "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the photo that contradicts her claim?",
     "detm_cue": "An elbow and fingers are visible at the left edge of the photo, clearly indicating the presence of another person.",
-    "non_detm_cue": "There are no other points that indicate there is another person in this photo.",
+    "non_detm_cue": "",
     "p_sub_ins": [
       "Can you identify that there is an elbow and fingers visible at the left edge of the photo?"
     ],
@@ -434,7 +434,7 @@
     "target_partner": "boyfriend",
     "main_ins": "My boyfriend said he's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in this image that contradicts his claim?",
     "detm_cue": "One female and one male are visible in the reflection on the spoon.",
-    "non_detm_cue": "There are no other points that indicate there is another person in this photo.",
+    "non_detm_cue": "",
     "p_sub_ins": [
       "Can you identify that there is one female and one male in the reflection on the spoon?"
     ],
@@ -455,7 +455,7 @@
     "target_partner": "boyfriend",
     "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
     "detm_cue": "There are two charging cables are plugged into separate outlets on each side of the nightstands, which is not a common habit for a single person.",
-    "non_detm_cue": "1. There is a set of feminine cosmetics on the right nightstands, which is usually used by a female. 2. There is another cell phone on the bed, which potentially indicates that another person is using it.",
+    "non_detm_cue": "1. There is a set of feminine cosmetics on the right nightstands, which is usually used by a female. 2. There is another cell phone on the bed, which potentially indicates that another person in the room.",
     "p_sub_ins": [
       "Can you identify that there are two charging cables are plugged into separate outlets on each side of the nightstands in the image?"
     ],
@@ -523,16 +523,16 @@
     "scene": "hotel",
     "target_partner": "boyfriend",
     "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
-    "detm_cue": "The reflection on the TV screen shows two silhouettes leaning against each other, directly indicating another person's presence.",
-    "non_detm_cue": "1. There is a white toiletry bag on the table, which is often used by a female. 2. There is a pair of shoes in women's style on the floor.",
+    "detm_cue": "The reflection on the TV screen shows two shadows leaning against each other, directly indicating another person's presence.",
+    "non_detm_cue": "",
     "p_sub_ins": [
-      "Can you identify that the TV screen reflects two silhouettes leaning against each other?"
+      "Can you identify that the TV screen reflects two shadows leaning against each other?"
     ],
     "p_sub_ans": [
       "Yes"
     ],
     "r_sub_ins": [
-      "Do you think reflection on the TV screen shows two silhouettes leaning against each other directly indicates that there is another person living here?"
+      "Do you think reflection on the TV screen shows two shadows leaning against each other directly indicates that there is another person living here?"
     ],
     "r_sub_ans": [
       "Yes"
@@ -545,7 +545,7 @@
     "target_partner": "boyfriend",
     "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
     "detm_cue": "There is a feminine water bottle labeled with the word 'girl' on the long desk beneath the TV, typically used by females.",
-    "non_detm_cue": "1. There is a girlish Jellycat doll hanging on the backpack on the long desk beneath the TV, which is usually possessed by a female. 2. There is a pair of shoes in women's style on the floor.",
+    "non_detm_cue": "1. There is a girlish Jellycat doll hanging on the backpack on the long desk beneath the TV, which is usually possessed by a female.",
     "p_sub_ins": [
       "Can you identify that there is a feminine water bottle labeled with the word 'girl' on the long desk beneath the TV in the image?"
     ],
@@ -567,17 +567,17 @@
     "scene": "hotel",
     "target_partner": "girlfriend",
     "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
-    "detm_cue": "There is an arm visible on the right side of the photo, which is likely to be another person's arm due to the photographer being on the bed.",
-    "non_detm_cue": "There are no other points that indicate there is another person in this photo.",
+    "detm_cue": "There is an arm visible on the right side of the mirror, which is likely to be another person's arm due to the photographer being on the bed.",
+    "non_detm_cue": "",
     "p_sub_ins": [
-      "Can you identify that there is an arm visible on the right side of the photo?"
+      "Can you identify that there is an arm visible on the right side of the mirror?"
     ],
     "p_sub_ans": [
       "Yes"
     ],
     "r_sub_ins": [
-      "Do you think the arm visible on the right side of the photo is likely to be another person's arm due to the photographer is on the bed?",
-      "Do you think the arm visible on the right side of the photo indicates that there is another person living here?"
+      "Do you think the arm visible on the right side of the mirror is likely to be another person's arm due to the photographer is on the bed?",
+      "Do you think the arm visible on the right side of the mirror indicates that there is another person living here?"
     ],
     "r_sub_ans": [
       "Yes",
@@ -591,7 +591,7 @@
     "target_partner": "girlfriend",
     "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
     "detm_cue": "There are fingers resting on the laptop on the right side of the photo, likely belonging to another person, since the photographer appears to be on the bed.",
-    "non_detm_cue": "There no other points that indicate there is another person in this photo.",
+    "non_detm_cue": "",
     "p_sub_ins": [
       "Can you identify that there are fingers resting on the laptop on the right side of the photo?"
     ],
@@ -611,10 +611,10 @@
   {
     "data_path": "true_images/true_28.png",
     "scene": "hotel",
-    "target_partner": "boyfriend",
-    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "target_partner": "grilfriend",
+    "main_ins": "My grilfriend said she is staying alone in the hotel, and she sent me this photo. Do you notice anything suspicious in the photo that contradicts her claim?",
     "detm_cue": "A person wearing a yellow jacket and jeans is seated on the bed at the right edge of the picture, likely indicating someone other than the photographer, who appears to be seated next to the round table.",
-    "non_detm_cue": "There are no other points that indicate there is another person in this photo.",
+    "non_detm_cue": "",
     "p_sub_ins": [
       "Can you identify that there is a person wearing a yellow jacket and jeans sitting on the bed at the right edge of the picture?"
     ],
@@ -637,7 +637,7 @@
     "target_partner": "girlfriend",
     "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
     "detm_cue": "The reflection on the TV screen shows two people sitting next to each other, providing clear evidence of another person's presence.",
-    "non_detm_cue": "There are no other points that indicate there is another person in this photo.",
+    "non_detm_cue": "",
     "p_sub_ins": [
       "Can you identify that The reflection on the TV screen shows two people sitting next to each other in the image?"
     ],
@@ -658,7 +658,7 @@
     "target_partner": "boyfriend",
     "main_ins": "My boyfriend said he's staying alone at the Airbnb and sent me this photo. Do you notice anything suspicious that contradicts his claim?",
     "detm_cue": "There is a white dress hanging on the drying rack in the window alcove along the far wall, which is usually worn by a female.",
-    "non_detm_cue": "1. There are two pillows putted side by side on the bed, which is not a common habit for a single person.",
+    "non_detm_cue": "",
     "p_sub_ins": [
       "Can you identify that there is a white dress hanging on the drying rack in the window alcove along the far wall in the image?"
     ],
@@ -727,7 +727,7 @@
     "target_partner": "boyfriend",
     "main_ins": "My boyfriend said he's out at a karaoke bar with his friends (all male) and sent me this photo. Do you notice anything suspicious in the image that contradicts his claim?",
     "detm_cue": "The reflection on the side of the table shows a pair of high heels, indicating that another female is present at the gathering.",
-    "non_detm_cue": "1. The two cups on the table are close to each other, which is not a common habit for two male friend.",
+    "non_detm_cue": "",
     "p_sub_ins": [
       "Can you identify that the reflection on the side of the table shows a pair of high heels in the image?"
     ],
@@ -750,7 +750,7 @@
     "target_partner": "girlfriend",
     "main_ins": "My girlfriend said she's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
     "detm_cue": "There is a pair of chopsticks at the far side of the table, which is likely to be another person's chopsticks.",
-    "non_detm_cue": "There are no other points that indicate there is another person in this photo.",
+    "non_detm_cue": "",
     "p_sub_ins": [
       "Can you identify that there is a pair of chopsticks at the far side of the table in the image?"
     ],
@@ -795,7 +795,7 @@
     "scene": "dining",
     "target_partner": "girlfriend",
     "main_ins": "My girlfriend said she's dining alone outside and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
-    "detm_cue": "The tabletop's reflection shows someone's arm on the top right corner of the photo, which is likely to be another person's arm due to the photographer's arm unable to reach taht angle",
+    "detm_cue": "The tabletop's reflection shows someone's arm on the top right corner of the photo, which is likely to be another person's arm due to the photographer's arm unable to reach that angle",
     "non_detm_cue": "1. There are two sauce bowls on the table, which is not a common habit for a single person.",
     "p_sub_ins": [
       "Can you identify that the tabletop's reflection shows someone's arm on the top right corner of the photo?"
@@ -819,7 +819,7 @@
     "target_partner": "girlfriend",
     "main_ins": "My girlfriend said she's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
     "detm_cue": "There are two identical sauce pans on the opposite side of the table, which is likely to be another person's sauce pans because it's not a common habit for a single person.",
-    "non_detm_cue": "There are no other points that indicate there is another person in this photo.",
+    "non_detm_cue": "",
     "p_sub_ins": [
       "Can you identify that there are two identical sauce pans on the opposite side of the table in the image?"
     ],
@@ -842,7 +842,7 @@
     "target_partner": "girlfriend",
     "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
     "detm_cue": "The game shown on the screen of the laptop is *It Takes Two*, which is a multiplayer game that requires two players to play together.",
-    "non_detm_cue": "There are no other points that indicate there is another person in this photo.",
+    "non_detm_cue": "",
     "p_sub_ins": [
       "Can you identify that the game shown on the screen of the laptop is *It Takes Two*?"
     ],
@@ -865,7 +865,7 @@
     "target_partner": "girlfriend",
     "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
     "detm_cue": "There are two charging cables are plugged into separate outlets on each side of the nightstands, which is not a common habit for a single person.",
-    "non_detm_cue": "1. The duvet is bundled mostly to the centre, not just to one edge, which is a pattern that two people can sleep on both sides. 2. There is another cellphone on the nightstands to the left, which potentially indicates that another person is using it.",
+    "non_detm_cue": "1. The quilt is bundled mostly to the centre, not just to one edge, which is a pattern that two people can sleep on both sides. 2. There is another cellphone on the nightstands to the left, which potentially indicates that another person is using it.",
     "p_sub_ins": [
       "Can you identify that there are two charging cables are plugged into separate outlets on each side of the nightstands in the image?"
     ],
@@ -910,7 +910,7 @@
     "scene": "dining",
     "target_partner": "boyfriend",
     "main_ins": "My boyfriend said he's dining alone at a hot-pot restaurant and sent me this photo. Do you notice anything suspicious in this image that contradicts his claim?",
-    "detm_cue": "A crocheted pink garment is visible near the opposite end of the table, suggesting another female's presence, as women typically wear this kind of clothes.",
+    "detm_cue": "A crocheted pink garment is visible near the opposite end of the table, suggesting another person's presence.",
     "non_detm_cue": "1. There are two dipping-sauce dishes on the table, which is not a common habit for a single person. 2. The water cup is on the opposite side of the table, which is not a common habit for a single person.",
     "p_sub_ins": [
       "Can you identify that there is a crocheted pink garment visible near the opposite end of the table?"
@@ -919,7 +919,7 @@
       "Yes"
     ],
     "r_sub_ins": [
-      "Do you think this crocheted pink garment visible near the opposite end of the table is likely to be possessed by a female as they typically wear this kind of closths?",
+      "Do you think this crocheted pink garment visible near the opposite end of the table is likely to be possessed by another person?",
       "Do you think this crocheted pink garment visible near the opposite end of the table indicates that there is another person dining here?"
     ],
     "r_sub_ans": [
@@ -934,7 +934,7 @@
     "target_partner": "boyfriend",
     "main_ins": "My boyfriend said he's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in this image that contradicts his claim?",
     "detm_cue": "A hand with glittery manicure is visible on the right side of the image, suggesting it's likely a female's hand, as manicured hands typically belong to females.",
-    "non_detm_cue": "There are no other points that indicate there is another person in this photo.",
+    "non_detm_cue": "",
     "p_sub_ins": [
       "Can you identify that there is a hand with glittery manicure visible on the right side of the image?"
     ],
@@ -956,17 +956,17 @@
     "scene": "hotel",
     "target_partner": "girlfriend",
     "main_ins": "My girlfriend said she's staying alone at the hotel and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
-    "detm_cue": "The duvets on both beds are covered with the same disposable travel bed set, which is not common for habit for a single person because there is no need to cover both duvets.",
-    "non_detm_cue": "There are no other points that indicate there is another person in this photo.",
+    "detm_cue": "The quilts on both beds are covered with the same disposable travel bed set, which is not common for habit for a single person because there is no need to cover both quilts.",
+    "non_detm_cue": "",
     "p_sub_ins": [
-      "Can you identify that the duvets on both beds are covered with the same disposable travel bed set in the image?"
+      "Can you identify that the quilts on both beds are covered with the same disposable travel bed set in the image?"
     ],
     "p_sub_ans": [
       "Yes"
     ],
     "r_sub_ins": [
       "Do you think it’s uncommon for a single person to cover both beds with identical disposable travel bedding sets?",
-      "Do you think both duvets being covered with the same disposable travel bedding set indicates another person's presence?"
+      "Do you think both quilts being covered with the same disposable travel bedding set indicates another person's presence?"
     ],
     "r_sub_ans": [
       "Yes",
@@ -980,7 +980,7 @@
     "target_partner": "boyfriend",
     "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
     "detm_cue": "There are two pairs of legs visible under the desk in the photo, which is likely to have another person.",
-    "non_detm_cue": "1. There are two sets of used chopsticks on the table, which is not a common habit for a single person.",
+    "non_detm_cue": "",
     "p_sub_ins": [
       "Can you identify that there are two pairs of legs visible under the table in the photo?"
     ],
@@ -1024,9 +1024,9 @@
     "data_path": "true_images/true_46.png",
     "scene": "hotel",
     "target_partner": "boyfriend",
-    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "main_ins": "My boyfriend said he is staying with his best friend (male) in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
     "detm_cue": "There is a feminized handbag at the back edge of the right nightstand, which is usually unlikely used by a male.",
-    "non_detm_cue": "There are no other points that indicate there is another person in this photo.",
+    "non_detm_cue": "",
     "p_sub_ins": [
       "Can you identify that there is a feminized handbag at the back edge of the right nightstand in the image?"
     ],
@@ -1049,7 +1049,7 @@
     "target_partner": "boyfriend",
     "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
     "detm_cue": "There is a pair of manicured fingers visible at the bottom of the photo, which is likely to be another female's hand.",
-    "non_detm_cue": "There are no other points that indicate there is another person in this photo.",
+    "non_detm_cue": "",
     "p_sub_ins": [
       "Can you identify that there is a pair of manicured fingers visible at the bottom of the photo?"
     ],
@@ -1072,7 +1072,7 @@
     "target_partner": "boyfriend",
     "main_ins": "My boyfriend said he's staying alone at the Airbnb and sent me this photo. Do you notice anything suspicious in the image that contradicts his claim?",
     "detm_cue": "There is a woman's head wear and hair clip visible in the lower-right corner of the image, which is likely to be another female.",
-    "non_detm_cue": "There are two white suitcases visible in the photo, which is not a common habit for a single person.",
+    "non_detm_cue": "",
     "p_sub_ins": [
       "Can you identify that there is a woman's head wear and hair clip visible in the lower-right corner of the image?"
     ],
@@ -1222,7 +1222,7 @@
     "data_path": "false_images/false_9.png",
     "scene": "hotel",
     "target_partner": "boyfriend",
-    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "main_ins": "My boyfriend said he is staying with his best friend (male) in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
     "ground_truth": "The photo shows no clear evidence of infidelity.",
     "url": "https://www.xiaohongshu.com/discovery/item/680b61df000000001e0064ab?source=webshare&xhsshare=pc_web&xsec_token=ABZ1-7iztU7XCUsLGpoFUh3KRfH910vJhR7icku_fOSoU=&xsec_source=pc_share"
   },
@@ -1350,7 +1350,7 @@
     "data_path": "false_images/false_25.png",
     "scene": "dining",
     "target_partner": "girlfriend",
-    "main_ins": "My girlfriend said she's dining alone at the restaurant and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
+    "main_ins": "My girlfriend said she's dining with her best friends (female) at the restaurant and sent me this photo. Do you notice anything suspicious in the image that contradicts her claim?",
     "ground_truth": "The photo shows no clear evidence of infidelity.",
     "url": "https://www.xiaohongshu.com/discovery/item/65a871130000000029033e80?source=webshare&xhsshare=pc_web&xsec_token=ABP63LVAsE3byspT3VH3qup_lQrp5w2FM2JRrQhs9dDdw=&xsec_source=pc_share"
   },
@@ -1517,8 +1517,8 @@
   {
     "data_path": "false_images/false_46.png",
     "scene": "hotel",
-    "target_partner": "boyfriend",
-    "main_ins": "My boyfriend said he is staying alone in the hotel, and he sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
+    "target_partner": "girlfriend",
+    "main_ins": "My girlfriend said she is staying alone in the hotel, and she sent me this photo. Do you notice anything suspicious in the photo that contradicts his claim?",
     "ground_truth": "The photo shows no clear evidence of infidelity.",
     "url": "https://www.xiaohongshu.com/discovery/item/665b20400000000016012caf?source=webshare&xhsshare=pc_web&xsec_token=ABV2TWMkJvPkE6xE41C9gH6kZHpMn3P89QMOxXZPi4dvk=&xsec_source=pc_share"
   },
